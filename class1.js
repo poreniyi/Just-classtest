@@ -1,5 +1,5 @@
 function Word(name){
-    this.name=kanji;
+    this.name=name;
 };
 Word.prototype.sayName=function(){    
     console.log(this.name);   
